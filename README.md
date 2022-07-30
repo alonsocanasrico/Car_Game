@@ -1,2 +1,3 @@
 # Car_Game
 Juego realizado en Processing, como proyecto final en la asignatura "Tecnologías de la Información y la Comunicación" en mi último año en el instituto, a la edad de 17 años.
+Controles: deslizar el ratón arriba y abajo por la pantalla, para desplazar el coche arriba y abajo. Irán apareciendo coches y motos por la derecha de la pantalla, los cuales hay que esquivar. Al llegar a determinada puntuación, dejarán de aparecer coches y motos, y aparecerá un camión que lanza barriles, los cuales también hay que esquivar. La velocidad aumentará cada vez más, aumentando así la dificultad del juego. Cuando el coche colisione con otro coche, moto o barril, se acabará la partida.
